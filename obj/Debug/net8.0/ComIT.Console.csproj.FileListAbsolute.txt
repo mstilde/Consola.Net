@@ -12,3 +12,4 @@ C:\Users\matis\OneDrive\Documentos\ComIT\ComIT.Proyectos\ComIT.Console\obj\Debug
 C:\Users\matis\OneDrive\Documentos\ComIT\ComIT.Proyectos\ComIT.Console\obj\Debug\net8.0\ComIT.Console.pdb
 C:\Users\matis\OneDrive\Documentos\ComIT\ComIT.Proyectos\ComIT.Console\obj\Debug\net8.0\ComIT.Console.genruntimeconfig.cache
 C:\Users\matis\OneDrive\Documentos\ComIT\ComIT.Proyectos\ComIT.Console\obj\Debug\net8.0\ref\ComIT.Console.dll
+C:\Users\matis\OneDrive\Documentos\ComIT\ComIT.Proyectos\ComIT.Console\obj\Debug\net8.0\ComIT.Console.sourcelink.json
